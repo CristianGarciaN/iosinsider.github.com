@@ -1,0 +1,9 @@
+Package: com.ioscreatix.maizepreview
+Name: Maize (Preview)
+Version: 1.2.6
+Architecture: iphoneos-arm
+Description: New control Center IOS 11. Available on IOS 10 enjoy this beta.
+Author: Creatix <spiderman_sozo@outlook.com>
+Section: Tweaks
+Depends: firmware (>= 10.0), mobilesubstrate, com.a3tweaks.flipswitch
+
